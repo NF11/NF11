@@ -5,8 +5,6 @@
   <img align="right" src="https://img.shields.io/github/followers/nf11?label=Follow&style=social" />
 </h3>
 
-- 🌱 I’m currently learning **GoLang and AWS**
-
 - 💬 Ask me about **PHP and laravel**
 
 - 📫 How to reach me **nassim.fares.dz@gmail.com**
