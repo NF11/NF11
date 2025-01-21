@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nassim FARES</h1>
 <h3 align="center">
   <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=nf11.nf11" />
-  A passionate web developer from Algeria
+  I Code The Code In CodeEditor From 🇩🇿
   <img align="right" src="https://img.shields.io/github/followers/nf11?label=Follow&style=social" />
 </h3>
-
-- 💬 Ask me about **PHP and laravel**
 
 - 📫 How to reach me **nassim.fares.dz@gmail.com**
 
@@ -73,6 +71,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nf11&show_icons=true&theme=dark&locale=en&layout=compact&hide=tex,css,jupyter%20notebook" alt="nf11" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nf11&theme=dark" alt="nf11" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nf11&rank=-C,-unknown" alt="nf11" /></a> </p>
 
